@@ -1,0 +1,29 @@
+html {
+    background-color: #313244;
+    width: calc(100% - 20px);
+}
+
+header {
+    background-color: #cba6f7;
+    text-align: left;
+}
+
+header img {
+    width: calc(100% - 30px);
+    padding: 15px;
+    
+    
+}
+
+nav {
+    background-color: #f5c2e7;
+    text-align: center;
+}
+
+body {
+    background-color: #f2cdcd;
+}
+
+footer {
+    background-color: #f5e0dc;
+}
